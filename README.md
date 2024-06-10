@@ -1,4 +1,4 @@
-# Namaste 🙏, I'm Resh Bikram Bhattarai 
+# Namaste 🙏, Welcome to my GitHub profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=resh008&color=yellow)
 [![GitHub followers](https://img.shields.io/github/followers/resh008?label=Follow&style=social)](https://github.com/yourusername)
