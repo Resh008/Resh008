@@ -15,7 +15,7 @@ I'm a passionate web developer who loves creating web applications that make a d
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=resh008&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=resh008&theme=radical)](https://git.io/streak-stats)
 
