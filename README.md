@@ -1,6 +1,6 @@
-# Hi there, I'm Resh Bikram Bhattarai 👋
+# Namaste 🙏, I'm Resh Bikram Bhattarai 
 
-![Profile Views](https://komarev.com/ghpvc/?username=resh008&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=resh008&color=yellow)
 [![GitHub followers](https://img.shields.io/github/followers/resh008?label=Follow&style=social)](https://github.com/yourusername)
 [![GitHub stars](https://img.shields.io/github/stars/resh008?label=Stars&style=social)](https://github.com/yourusername)
 
@@ -15,7 +15,7 @@ I'm a passionate web developer who loves creating web applications that make a d
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=resh008&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=resh008&theme=yellowdark&mode=weekly)](https://git.io/streak-stats)
 
 ## 🔗 Connect with Me
 
@@ -41,9 +41,7 @@ I'm a passionate web developer who loves creating web applications that make a d
 
 ## 🌱 Currently Learning
 
-- Advanced React 
-- TypeScript
-- Angular
+- Advanced React, React Native
 
 ## 💬 Let's Talk
 
