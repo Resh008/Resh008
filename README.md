@@ -24,15 +24,15 @@ I'm a passionate web developer who loves creating web applications that make a d
 
 ## 📝 Recent Projects
 
-- [**Multi Vendor Ecommerce [MERN]**](https://github.com/yourusername/project1)
+- **Multi Vendor Ecommerce [MERN]**
   - . I developed a Mutli-vendor Ecommerce using MERN stack. In this system I used ReactJs for Frontend along with redux for advanced application & for server side I used ExpressJs, NodeJs & MonogoDB for database. In this project I also integrated Khalti as payement gateway for products.
 
-Main Features of this product:
-- Easy Registration
-- Seller Pannel
-- Checkout System
-- Payment Gateway
-- Super Admin Pannel
+    Main Features of this product:
+    - Easy Registration
+    - Seller Pannel
+    - Checkout System
+    - Payment Gateway
+    - Super Admin Pannel
 
 - [**[WIP] Factory Management System**](https://fms-xnx6.onrender.com)
   - Factory management system to help steel industry in their day to day operations. 
