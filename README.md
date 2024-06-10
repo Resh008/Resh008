@@ -1,16 +1,10 @@
 # Namaste 🙏, Welcome to my GitHub profile!
 
+![image](https://miro.medium.com/v2/resize:fit:1400/0*FIAyDFXvSmRwx_IC.jpg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=resh008&color=yellow)
 [![GitHub followers](https://img.shields.io/github/followers/resh008?label=Follow&style=social)](https://github.com/yourusername)
 [![GitHub stars](https://img.shields.io/github/stars/resh008?label=Stars&style=social)](https://github.com/yourusername)
-
-## 🚀 About Me
-
-I'm a passionate web developer who loves creating web applications that make a difference. With a solid foundation in HTML, CSS, and JavaScript.
-
-## 🛠️ Skills
-
-- **JS Frameworks**: React.js, Node.js, Express.js
 
 ## 📈 GitHub Stats
 
@@ -36,11 +30,6 @@ I'm a passionate web developer who loves creating web applications that make a d
 - [**[WIP] Factory Management System**](https://fms-xnx6.onrender.com)
   - Factory management system to help steel industry in their day to day operations. 
 
-
-
-## 🌱 Currently Learning
-
-- Advanced React, React Native
 
 ## 💬 Let's Talk
 
