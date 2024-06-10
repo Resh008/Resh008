@@ -10,8 +10,7 @@ I'm a passionate web developer who loves creating web applications that make a d
 
 ## 🛠️ Skills
 
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React.js, Node.js, Express.js
+- **JS Frameworks**: React.js, Node.js, Express.js
 
 ## 📈 GitHub Stats
 
