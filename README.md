@@ -1,8 +1,8 @@
 # Hi there, I'm Resh Bikram Bhattarai 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=resh008&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/resh008?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/resh008?label=Stars&style=social)](https://github.com/yourusername)
 
 ## 🚀 About Me
 
