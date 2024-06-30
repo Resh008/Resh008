@@ -29,6 +29,22 @@
 
 - [**[WIP] Factory Management System**](https://fms-xnx6.onrender.com)
   - Factory management system to help steel industry in their day to day operations. 
+  - Link to website: [https://fms-xnx6.onrender.com](https://fms-xnx6.onrender.com). (Website is deployed in free hosting as a result, It takes 50 seconds on first reload to make it active)
+  - Demo ID Password: E: vaccnepal@gmail.com P: demo@123
+
+- Features
+  - Role Based Access
+  - Create/Delete User
+  - Email notifications
+  - Create & View report consumption report.
+  - Crate & View Production Report.
+  - Product Stock management (Automatically updates based on production report)
+  
+  - Upcoming Features
+    - Sales Management
+    - Invoice Generation
+
+
 
 
 ## 💬 Let's Talk
